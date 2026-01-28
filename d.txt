@@ -1,0 +1,13 @@
+.git
+bath
+bed
+carmodel
+d.txt
+fs.txt
+home
+night
+office
+outdoor
+school
+shanghai
+sofa
